@@ -31,8 +31,4 @@ public class CharGridTest {
 		assertEquals(3, cg.charArea('b'));
 		assertEquals(1, cg.charArea('c'));
 	}
-	
-	
-	
-	
 }
